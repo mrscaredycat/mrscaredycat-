@@ -5,10 +5,11 @@
 🎓 Estudante de Ciência da Computação na Universidade de Brasília (UnB)  
 💻 Curiosa, dedicada e apaixonada por aprender como a tecnologia funciona por dentro  
 🚀 Explorando Desenvolvimento de Software e Cibersegurança  
+🖥️ - Atualmente, estudo e utilizo **Java** para o desenvolvimento **backend** com **Spring Boot**. Além disso, estou aprendendo **Python** para expandir minhas habilidades e explorar novas áreas.
 
 💬 Sempre aberta para trocar ideias sobre tecnologia, projetos e aprendizado contínuo.  
 
-🖥️ - Atualmente, estudo e utilizo **Java** para o desenvolvimento **backend** com **Spring Boot**. Além disso, estou aprendendo **Python** para expandir minhas habilidades e explorar novas áreas.
+
 
 ---
 
