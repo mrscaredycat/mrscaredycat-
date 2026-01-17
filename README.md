@@ -1,8 +1,4 @@
 
-## 🏆 Conquistas no GitHub
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mrscaredycat&theme=darkhub&margin-w=15&margin-h=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 💜 Olá, meu nome é Ana Caroline!
 
 🎓 Estudante de Ciência da Computação na Universidade de Brasília (UnB)  
