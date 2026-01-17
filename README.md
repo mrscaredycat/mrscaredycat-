@@ -2,11 +2,10 @@
 
 🎓 Estudante de Ciência da Computação na Universidade de Brasília (UnB)  
 💻 Curiosa, dedicada e apaixonada por aprender como a tecnologia funciona por dentro  
-🚀 Explorando Desenvolvimento de Software, Cibersegurança e Ciência de Dados  
+🚀 Explorando Desenvolvimento de Software e Cibersegurança  
 
-🔭 Projetos: já desenvolvi jogos em C (Drop Merge Game) e aplicações em Java e HTML. Atualmente, estudo Python e JavaScript para expandir minha stack.  
-
-💬 Se quiser trocar ideias sobre tecnologia, projetos ou oportunidades, fique à vontade para entrar em contato comigo!  
+🔭 Projetos: já desenvolvi jogos em C (Drop Merge Game) e aplicações em Java e HTML/CSS.  
+💬 Se quiser trocar ideias sobre tecnologia ou projetos, fique à vontade para entrar em contato comigo!  
 
 ---
 
@@ -14,13 +13,8 @@
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 ---
 
@@ -28,7 +22,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/intellij/intellij.png" alt="IntelliJ"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/pycharm/pycharm.png" alt="PyCharm"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png" alt="Spring Boot"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" alt="Windows"/></code>
 
 ---
