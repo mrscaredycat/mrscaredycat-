@@ -1,8 +1,6 @@
-![Snake animation](https://raw.githubusercontent.com/mrscaredycat/mrscaredycat/output/snake.svg)
 
 
-
-## 💜 Olá, meu nome é Ana Caroline!
+##  Olá, meu nome é Ana Caroline!
 
 🎓 Estudante de Ciência da Computação na Universidade de Brasília (UnB)  
 💻 Curiosa, dedicada e apaixonada por aprender como a tecnologia funciona por dentro  
