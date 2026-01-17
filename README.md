@@ -6,6 +6,8 @@
 
 💬 Sempre aberta para trocar ideias sobre tecnologia, projetos e aprendizado contínuo.  
 
+🖥️ - Atualmente, estudo e utilizo **Java** para o desenvolvimento **backend** com o Framework **Spring**, além de usar **JavaScript** para o desenvolvimento **frontend**, com soluções como **Next** e **Vite**, baseadas em **React**.  
+
 ---
 
 ## 🚀 Minhas Skills
@@ -19,6 +21,7 @@
 ---
 
 ## 💼 Ferramentas que utilizo
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/intellij-idea/intellij-idea.png" alt="IntelliJ IDEA"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/pycharm/pycharm.png" alt="PyCharm"/></code>
@@ -30,13 +33,18 @@
 ## 📫 Contato
 
 <p align="left">
-  <a href="freitascaroline49@gmail.com" title="Gmail">
+  <a href="mailto:SEUEMAIL@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ana-caroline-freitas-brito-4942172a9/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/SEULINKEDIN" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- 
+  <a href="https://api.whatsapp.com/send?phone=SEUNUMERO" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/SEUINSTAGRAM" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
