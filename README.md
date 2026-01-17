@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/mrscaredycat/mrscaredycat/output/snake.svg" alt="Snake animation" />
+
+
+
 
 ## 💜 Olá, meu nome é Ana Caroline!
 
