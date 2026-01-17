@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação na Universidade de Brasília (UnB)  
 💻 Curiosa, dedicada e apaixonada por aprender como a tecnologia funciona por dentro  
-🚀 Explorando Desenvolvimento de Software, Cibersegurança e Ciência de Dados  
+🚀 Explorando Desenvolvimento de Software e Cibersegurança  
 
 💬 Sempre aberta para trocar ideias sobre tecnologia, projetos e aprendizado contínuo.  
 
@@ -19,15 +19,10 @@
 ---
 
 ## 💼 Ferramentas que utilizo
-## 💼 Ferramentas que utilizo
-![VS Code](https://img.shields.io/badge/VS%20Code-6A0DAD?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-4B0082?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-800080?style=for-the-badge&logo=pycharm&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2E0854?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-5A2D81?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-6A0DAD?style=for-the-badge&logo=windows&logoColor=white)
-
-
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/intellij-idea/intellij-idea.png" alt="IntelliJ IDEA"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/pycharm/pycharm.png" alt="PyCharm"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png" alt="Spring Boot"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" alt="Windows"/></code>
 
 ---
