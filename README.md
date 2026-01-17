@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação na Universidade de Brasília (UnB)  
 💻 Curiosa, dedicada e apaixonada por aprender como a tecnologia funciona por dentro  
-🚀 Explorando Desenvolvimento de Software, Cibersegurança e Ciência de Dados  
+🚀 Explorando Desenvolvimento de Software, Cibersegurança, IA e Ciência de Dados  
 
 💬 Sempre aberta para trocar ideias sobre tecnologia, projetos e aprendizado contínuo.  
 
