@@ -1,36 +1,45 @@
-# 🌟 Olá, eu sou a Ana Caroline!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+
+# 👩‍💻 Olá, eu sou a Ana Caroline!
 
 🎓 Estudante de Ciência da Computação na Universidade de Brasília (UnB)  
-💻 Curiosa, dedicada e apaixonada por aprender como a tecnologia funciona por dentro  
+💡 Curiosa, dedicada e apaixonada por tecnologia  
 🚀 Explorando Desenvolvimento de Software, Cibersegurança e Ciência de Dados  
+📚 Sempre buscando entender como as coisas funcionam e aplicar soluções criativas
 
 ---
 
-## ✨ Um pouco sobre mim
-- 🔍 Sempre buscando entender como as coisas funcionam e encontrar soluções criativas  
-- 📚 Experiência em **Java** e **C**, expandindo para **Python** e **JavaScript**  
-- 🤓 Gosto de desafios técnicos e de aprender continuamente  
-- 🌱 Aberta a novas oportunidades e projetos que me façam crescer  
+## 🦄 Linguagens que estudo e utilizo
+- **Java** – sólida experiência
+- **C** – domínio acadêmico e prático
+- **Python** – em aprendizado
+- **JavaScript** – em aprendizado
 
 ---
 
-## 🛠️ Tecnologias que estudo e utilizo
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 💼 Ferramentas e tecnologias
+- Git & GitHub  
+- Linux  
+- VS Code  
+- HTML & CSS  
+- React (em estudo)  
+- PostgreSQL (iniciante)  
 
 ---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrscaredycat&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrscaredycat&layout=compact&theme=tokyonight)
+## 💌 Vamos conversar? ⤵️
 
----
-
-## 🌐 Conecte-se comigo
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/seu-usuario)  
-- [Instagram](https://www.instagram.com/seu-usuario)  
+<p align="left">
+  <a href="mailto:seuemail@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seuusuario" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=SEUNUMERO" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.instagram.com/seuusuario" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
