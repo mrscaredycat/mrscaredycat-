@@ -15,19 +15,19 @@
 ---
 
 ## 🛠️ Tecnologias que estudo e utilizo
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-6A0DAD?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-800080?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2E0854?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
 ## 💼 Ferramentas que utilizo
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-6A0DAD?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-4B0082?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-800080?style=for-the-badge&logo=pycharm&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2E0854?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-6A0DAD?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
