@@ -33,7 +33,7 @@
 ## 📫 Contato
 
 <p align="left">
-  <a href="freitascaroline49@gmail.com" title="Gmail">
+  <a href="mailto:freitascaroline49@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ana-caroline-freitas-brito-4942172a9/" title="LinkedIn">
