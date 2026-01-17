@@ -33,18 +33,13 @@
 ## 📫 Contato
 
 <p align="left">
-  <a href="mailto:SEUEMAIL@gmail.com" title="Gmail">
+  <a href="freitascaroline49@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEULINKEDIN" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/ana-caroline-freitas-brito-4942172a9/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=SEUNUMERO" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/SEUINSTAGRAM" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
