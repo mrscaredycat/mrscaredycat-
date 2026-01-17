@@ -6,7 +6,7 @@
 
 💬 Sempre aberta para trocar ideias sobre tecnologia, projetos e aprendizado contínuo.  
 
-🖥️ - Atualmente, estudo e utilizo **Java** para o desenvolvimento **backend** com o Framework **Spring**, além de usar **JavaScript** para o desenvolvimento **frontend**, com soluções como **Next** e **Vite**, baseadas em **React**.  
+🖥️ - Atualmente, estudo e utilizo **Java** para o desenvolvimento **backend** com **Spring Boot**. Além disso, estou aprendendo **Python** para expandir minhas habilidades e explorar novas áreas.
 
 ---
 
