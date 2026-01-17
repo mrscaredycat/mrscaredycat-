@@ -1,21 +1,21 @@
-# 👋 Oi, eu sou a Ana Caroline!
+# 🌟 Olá, eu sou a Ana Caroline!
 
 🎓 Estudante de Ciência da Computação na Universidade de Brasília (UnB)  
-💻 Apaixonada por tecnologia, curiosa e sempre buscando entender como as coisas funcionam  
-🚀 Foco em Desenvolvimento de Software, Cibersegurança e Ciência de Dados  
+💻 Curiosa, dedicada e apaixonada por aprender como a tecnologia funciona por dentro  
+🚀 Explorando Desenvolvimento de Software, Cibersegurança e Ciência de Dados  
 
 ---
 
-## 💡 Sobre Mim
-- 📚 Dedicada e comprometida com a evolução constante  
-- 💻 Experiência em **Java** e **C**, expandindo para **Python** e **JavaScript**  
-- 🔍 Curiosa e interessada em explorar novas tecnologias e aplicar soluções criativas  
-- 🤓 Fascinada por desafios técnicos e aprendizado contínuo  
+## ✨ Um pouco sobre mim
+- 🔍 Sempre buscando entender como as coisas funcionam e encontrar soluções criativas  
+- 📚 Experiência em **Java** e **C**, expandindo para **Python** e **JavaScript**  
+- 🤓 Gosto de desafios técnicos e de aprender continuamente  
+- 🌱 Aberta a novas oportunidades e projetos que me façam crescer  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+## 🛠️ Tecnologias que estudo e utilizo
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,13 +24,13 @@
 
 ---
 
-## 📈 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrscaredycat&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrscaredycat&layout=compact&theme=radical)
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrscaredycat&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrscaredycat&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔗 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/seu-usuario)
-- [Instagram](https://www.instagram.com/seu-usuario)
+## 🌐 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+- [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/seu-usuario)  
+- [Instagram](https://www.instagram.com/seu-usuario)  
